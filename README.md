@@ -1,5 +1,7 @@
 # Hi, I'm Haseeb Khan 👋
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7A0&vCenter=true&width=600&lines=Full+Stack+Developer;Multi-tenant+SaaS+platforms;AI+receptionist+dashboards;Next.js+%7C+React+Native+%7C+NestJS)
+
 **Full Stack Developer** building multi-tenant SaaS platforms, AI receptionist dashboards and React Native apps.
 
 Full Stack Developer at **Hypelet** · Senior Full Stack Developer at **Tekvers** (part-time) · Lahore, Pakistan · working remotely with clients in the UK, US, UAE and Pakistan.
@@ -32,15 +34,20 @@ Most of my work is client code in private repositories, so here are the products
 
 ## Tech stack
 
+![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,postgres,mongodb,redis,supabase,firebase,docker,vercel)
+
 - **Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Framer Motion
 - **Mobile:** React Native · Expo
 - **Backend:** Node.js · NestJS · Express · PostgreSQL · MongoDB · Redis · Supabase · Firebase
 - **Payments and AI:** Stripe · OpenAI · Claude · Retell AI
 - **Deployment:** Vercel · Docker
+
 ## Education
 
 BS Computer Science, The University of Lahore · MS Computer Science (in progress), Information Technology University
 
 ---
+
+![Snake](https://raw.githubusercontent.com/haseebkhan6279/haseebkhan6279/output/github-snake-dark.svg)
 
 Open to freelance projects. Message me on [LinkedIn](https://linkedin.com/in/haseebgulraizkhan).
