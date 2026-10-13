@@ -32,12 +32,11 @@ Most of my work is client code in private repositories, so here are the products
 
 ## Tech stack
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Framer Motion
-**Mobile:** React Native · Expo
-**Backend:** Node.js · NestJS · Express · PostgreSQL · MongoDB · Redis · Supabase · Firebase
-**Payments and AI:** Stripe · OpenAI · Claude · Retell AI
-**Deployment:** Vercel · Docker
-
+- **Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Framer Motion
+- **Mobile:** React Native · Expo
+- **Backend:** Node.js · NestJS · Express · PostgreSQL · MongoDB · Redis · Supabase · Firebase
+- **Payments and AI:** Stripe · OpenAI · Claude · Retell AI
+- **Deployment:** Vercel · Docker
 ## Education
 
 BS Computer Science, The University of Lahore · MS Computer Science (in progress), Information Technology University
